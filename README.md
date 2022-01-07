@@ -10,7 +10,9 @@ This codes are the visualization of weight mapping on the PIM architecture based
 * image size, kernel size, input channel, output channel, rows of PIM array, columns of PIM array, mapping method
  
 ex 1) image, kernel, ic, oc, ar, ac, method = 32, 3, 8, 16, 32, 32, 'VW-SDK'
+
 ex 2) image, kernel, ic, oc, ar, ac, method = 32, 3, 8, 16, 32, 32, 'SDK'
+
 ex 3) image, kernel, ic, oc, ar, ac, method = 32, 3, 8, 16, 32, 32, 'im2col'
 
 ### function_1.py

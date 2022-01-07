@@ -20,15 +20,19 @@ ex 3) image, kernel, ic, oc, ar, ac, method = 32, 3, 8, 16, 32, 32, 'im2col'
 ## Results
 
 First, the computing cycle is calculated.
+
 ![](./results.png)
 
 Then, the mapping is visualized.
 
 ex 1) im2col
+
 ![](./im2col.png)
 
 ex 2) SDK
+
 ![](./sdk.png)
 
 ex 3) VW-SDK
+
 ![](./vw-sdk.png)
